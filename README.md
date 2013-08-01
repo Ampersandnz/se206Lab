@@ -1,4 +1,4 @@
 se206Lab
 ========
 
-GtHub lab - 2/8/13
+GitHub lab - 2/8/13
